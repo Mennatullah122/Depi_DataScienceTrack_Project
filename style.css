@@ -1,0 +1,47 @@
+/* Background */
+.stApp{
+    background:#F4F8FF;
+}
+
+/* Main Title */
+h1{
+    color:#0F4C81;
+    font-weight:bold;
+}
+
+/* Buttons */
+.stButton>button{
+    background:#1565C0;
+    color:white;
+    border-radius:10px;
+    height:45px;
+    width:100%;
+    font-size:18px;
+    border:none;
+}
+
+.stButton>button:hover{
+    background:#0D47A1;
+}
+
+/* Sidebar */
+section[data-testid="stSidebar"]{
+    background:#0F4C81;
+}
+
+section[data-testid="stSidebar"] *{
+    color:white;
+}
+
+/* Metrics */
+[data-testid="metric-container"]{
+    background:white;
+    border-radius:15px;
+    padding:15px;
+    box-shadow:0px 4px 10px rgba(0,0,0,.15);
+}
+
+/* DataFrame */
+div[data-testid="stDataFrame"]{
+    border-radius:12px;
+}
