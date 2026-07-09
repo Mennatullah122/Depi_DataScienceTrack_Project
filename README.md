@@ -361,13 +361,13 @@ Depi_DataScienceTrack_Project/
 
 ## 👥 Team
 
-This project was developed as part of the DEPI Data Science Track by the following team members:
-
-- 🚀 **Mennatullah Mohamed** - Project Lead & Full Stack Development
-- 📊 **Ali Abdallah** - Data Analysis & Preprocessing
-- 🤖 **Yousef Mohamed** - Model Development & Training
-- 📈 **Baraa** - Data Visualization & EDA
-- 💻 **Yousef Tarek** - Web Development & Deployment
+| Member | Tasks |
+|--------|-------|
+| 🚀 **Mennatullah Mohamed** | Project Lead & Full Stack Development |
+| 📊 **Ali Abdallah** | Data Analysis & Preprocessing |
+| 🤖 **Yousef Mohamed** | Model Development & Training |
+| 📈 **Baraa** | Data Visualization & EDA |
+| 💻 **Yousef Tarek** | Web Development & Deployment |
 
 ---
 
